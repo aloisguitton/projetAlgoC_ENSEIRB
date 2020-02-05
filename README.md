@@ -1,5 +1,5 @@
-#Projet programmation C
-###ENSEIRB-MATMECA
+# Projet programmation C
+### ENSEIRB-MATMECA
 
 
 
